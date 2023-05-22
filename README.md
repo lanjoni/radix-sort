@@ -1,2 +1,3 @@
-# radix-sort
-Radix sort implementation in C++
+#  Radix Sort
+
+Radix Sort implementation in C++
